@@ -5,3 +5,4 @@
 4. Create Sum_of_Int_1to50.py - Sum of Integers from 1 to 50 Using a Loop
 5. Factorial_function.py - Calculate Factorial Using a Function
 6. math_module.py - Using the Math Module for Calculations
+7. readfile_errorhandle.py - Read a File and Handle Errors along with sample1.txt to read the file from
