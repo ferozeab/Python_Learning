@@ -6,3 +6,4 @@
 5. Factorial_function.py - Calculate Factorial Using a Function
 6. math_module.py - Using the Math Module for Calculations
 7. readfile_errorhandle.py - Read a File and Handle Errors along with sample1.txt to read the file from
+8. write_append_file.py - Write and Append contents to output.txt file along with output.txt file
